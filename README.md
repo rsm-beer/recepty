@@ -1,2 +1,2 @@
-# recepty
+# Recepty
 Recepty na naše piva
