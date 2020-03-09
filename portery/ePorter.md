@@ -33,6 +33,6 @@ No co z toho vznikne... fork receptu pro začátečníky z Pivařky<sup>2</sup>
 ## Fermentace
 | Klíč               | Hodnota    |
 |--------------------|------------|
-| Doba fermentace    | 5 - 7 dní  |
+| Doba fermentace    | 10 - 14 dní  |
 | Teplota fermentace | 18 - 20 °C |
 | Množství dextrózy  | 6 g/l      |
