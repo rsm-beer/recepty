@@ -7,8 +7,8 @@ No co z toho vznikne... fork receptu pro začátečníky z Pivařky<sup>2</sup>
 | Styl         | Porter  |
 | Mladina      | 9 l     |
 | OG           | 1055    |
-| BG           | 1020    |
-| Stupňovitost | 14      |
+| BG           | 1022    |
+| Stupňovitost | 13      |
 | ABV          | mnogo   |
 | IBU          | malo    |
 | EBC          | stredne |
